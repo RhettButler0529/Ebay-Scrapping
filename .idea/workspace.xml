@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7fa1c4e-b634-49af-a424-6999cc6b3aa7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oUbpD6Q1qX9LUQiQ2HmOIvyedw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7fa1c4e-b634-49af-a424-6999cc6b3aa7" name="Default Changelist" comment="" />
+      <created>1613344301143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613344301143</updated>
+      <workItem from="1613344314823" duration="1884000" />
+      <workItem from="1613346287159" duration="1789000" />
+      <workItem from="1613349380527" duration="1788000" />
+      <workItem from="1613351207579" duration="1800000" />
+      <workItem from="1613353028578" duration="1281000" />
+      <workItem from="1613354839929" duration="1443000" />
+      <workItem from="1613356660963" duration="1367000" />
+      <workItem from="1613359007898" duration="1787000" />
+      <workItem from="1613360817015" duration="1922000" />
+      <workItem from="1613362757951" duration="1789000" />
+      <workItem from="1613364565567" duration="1788000" />
+      <workItem from="1613366373707" duration="1794000" />
+      <workItem from="1613368202613" duration="1108000" />
+      <workItem from="1613370311383" duration="2039000" />
+      <workItem from="1613372516939" duration="1140000" />
+      <workItem from="1613393750694" duration="654000" />
+      <workItem from="1613459892152" duration="1825000" />
+      <workItem from="1613461743982" duration="1784000" />
+      <workItem from="1613479757096" duration="957000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="467" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1613351209193">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="467" y="246" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1613351209193" />
+    <state x="656" y="350" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1613346289250" />
+  </component>
+</project>
